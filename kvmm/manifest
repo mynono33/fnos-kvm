@@ -1,0 +1,14 @@
+appname=kvmm
+version=1.0.0
+display_name=虚拟机M
+desc="""由于飞牛官方虚拟机管理页面暂不支持移动端访问。本应用专为移动端优化，让你随时随地通过手机管理虚拟机"""
+platform=x86
+source=thirdparty
+maintainer=飞牛
+maintainer_url=https://www.fnnas.com/
+distributor=nono
+distributor_url=https://github.com/mynono33
+ctl_stop=true
+desktop_uidir=ui
+desktop_applaunchname=kvmm.Application
+changelog=Initial release
