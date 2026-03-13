@@ -1,0 +1,23 @@
+[
+  {
+    "stepTitle": "卸载选项",
+    "items": [
+      {
+        "type": "radio",
+        "field": "wizard_data_action",
+        "label": "数据处理方式",
+        "options": [
+          {
+            "label": "保留数据",
+            "value": "keep"
+          },
+          {
+            "label": "删除全部数据",
+            "value": "delete"
+          }
+        ],
+        "initValue": "keep"
+      }
+    ]
+  }
+]
