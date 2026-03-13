@@ -5,5 +5,5 @@
 
 <div style="display: flex; justify-content: space-around;">
   <img src="images/01.jpg" alt="概述" width="300" />
-  <img src="images/22.jpg" alt="虚拟机" width="300" />
+  <img src="images/02.jpg" alt="虚拟机" width="300" />
 </div>
